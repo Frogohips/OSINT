@@ -40,6 +40,9 @@
 - **Pastebin Analysis** — scanning paste sites for leaked credentials and sensitive data
 - **[OSINT Framework](https://osintframework.com)** — curated directory of categorised OSINT resources
 
+### Social Media Investigation
+- **[ArctisShift](https://arctic-shift.photon-reddit.com/)** — Tool which allows you to view private accounts posts via mass scraping of posts & comments
+
 ### Geolocation
 - **Google Earth / Google Maps** — satellite and street-level imagery analysis
 - **[Overpass Turbo](https://overpass-turbo.eu)** — geographic queries against OpenStreetMap
