@@ -5,7 +5,7 @@
 ![Reconnaissance](https://img.shields.io/badge/Reconnaissance-blue?style=flat-square)
 ![Investigation](https://img.shields.io/badge/Investigation-green?style=flat-square)
 ![Geolocation](https://img.shields.io/badge/Geolocation-purple?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 
 ---
 
